@@ -26,118 +26,125 @@ export default function DeeplyTermsPage() {
               1. Acceptance of Terms
             </h2>
             <p>
-              By downloading, installing, or using the Deeply application, you
-              agree to be bound by these Terms of Service. If you do not agree
-              to abide by the above, please do not use this service.
+              By downloading, installing, or using Deeply, you agree to be bound
+              by these Terms of Service. If you do not agree to abide by these
+              terms, please do not use this service.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              2. Use License
+              2. Service Description
             </h2>
             <p>
-              Permission is granted to temporarily download one copy of the
-              materials (information or software) on Deeply for personal,
-              non-commercial transitory viewing only. This is the grant of a
-              license, not a transfer of title, and under this license you may
-              not:
+              Deeply is a free mobile application provided by Lupleg Apps. The
+              service is provided &quot;as-is&quot; and may be modified or
+              discontinued at any time without notice.
             </p>
-            <ul className="list-disc list-inside mt-4 space-y-2">
-              <li>Modifying or copying the materials</li>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              3. User Account
+            </h2>
+            <p>
+              To use Deeply, you must create an account by providing your full
+              name and email address. You are responsible for maintaining the
+              confidentiality of your account and password. You agree to accept
+              responsibility for all activities that occur under your account.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              4. User Conduct
+            </h2>
+            <p>You agree not to use Deeply for any purpose that is:</p>
+            <ul className="list-disc list-inside space-y-2 mt-4">
+              <li>Illegal or in violation of any applicable laws</li>
               <li>
-                Using the materials for any commercial purpose or for any public
-                display
+                Harmful, abusive, or offensive to other users or the developers
               </li>
               <li>
-                Attempting to decompile or reverse engineer any software
-                contained on Deeply
+                Attempts to disrupt or interfere with the app&apos;s
+                functionality
               </li>
               <li>
-                Removing any copyright or other proprietary notations from the
-                materials
+                Attempts to reverse engineer, decompile, or hack the application
               </li>
-              <li>
-                Transferring the materials to another person or &quot;mirroring&quot; the
-                materials on any other server
-              </li>
+              <li>Commercial exploitation of the service</li>
             </ul>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              3. Disclaimer
+              5. Intellectual Property
             </h2>
             <p>
-              The materials on Deeply are provided on an &quot;as is&quot; basis. Lupleg
-              Apps makes no warranties, expressed or implied, and hereby
-              disclaims and negates all other warranties including, without
-              limitation, implied warranties or conditions of merchantability,
-              fitness for a particular purpose, or non-infringement of
-              intellectual property or other violation of rights.
+              Deeply and all of its content, features, and functionality
+              (including but not limited to all information, software, text,
+              displays, images, video, and audio) are owned by Lupleg Apps or
+              its content suppliers and are protected by copyright and other
+              intellectual property laws.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              4. Limitations
+              6. Disclaimer
             </h2>
             <p>
-              In no event shall Lupleg Apps or its suppliers be liable for any
-              damages (including, without limitation, damages for loss of data
-              or profit, or due to business interruption) arising out of the use
-              or inability to use the materials on Deeply, even if Lupleg Apps
-              or an authorized representative has been notified orally or in
-              writing of the possibility of such damage.
+              Deeply is provided on an &quot;as-is&quot; basis. Lupleg Apps
+              makes no warranties, expressed or implied, regarding the app or
+              its operation. We disclaim all warranties including, without
+              limitation, warranties of merchantability, fitness for a
+              particular purpose, and non-infringement of intellectual property
+              rights.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              5. Accuracy of Materials
+              7. Limitation of Liability
             </h2>
             <p>
-              The materials appearing on Deeply could include technical,
-              typographical, or photographic errors. Lupleg Apps does not
-              warrant that any of the materials on its website are accurate,
-              complete, or current. Lupleg Apps may make changes to the
-              materials contained on its website at any time without notice.
+              In no event shall Lupleg Apps, its founders, or its suppliers be
+              liable for any damages (including loss of data, profits, or
+              business interruption) arising from the use of or inability to use
+              Deeply, even if we have been notified of the possibility of such
+              damage.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              6. Links
+              8. Modifications to Terms
             </h2>
             <p>
-              Lupleg Apps has not reviewed all of the sites linked to its
-              website and is not responsible for the contents of any such linked
-              site. The inclusion of any link does not imply endorsement by
-              Lupleg Apps of the site. Use of any such linked website is at the
-              user&quot;s own risk.
+              Lupleg Apps may revise these Terms of Service at any time without
+              notice. By continuing to use Deeply after such revisions, you
+              agree to be bound by the updated terms.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              7. Modifications
+              9. Termination
             </h2>
             <p>
-              Lupleg Apps may revise these terms of service for its website at
-              any time without notice. By using this website, you are agreeing
-              to be bound by the then current version of these terms of service.
+              Lupleg Apps may terminate or suspend your account and access to
+              Deeply at any time for violations of these Terms of Service or for
+              any other reason, with or without notice.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              8. Governing Law
+              10. Contact Us
             </h2>
             <p>
-              These terms and conditions are governed by and construed in
-              accordance with the laws of the applicable jurisdiction, and you
-              irrevocably submit to the exclusive jurisdiction of the courts in
-              that location.
+              If you have questions about these Terms of Service, please contact
+              us through the app or via email.
             </p>
           </section>
 
