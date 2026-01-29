@@ -37,8 +37,8 @@ export default function DeeplyTermsPage() {
               2. Service Description
             </h2>
             <p>
-              Deeply is a free mobile application provided by Lupleg Apps. The
-              service is provided &quot;as-is&quot; and may be modified or
+              Deeply is a free mobile application provided by Lupleg Studios.
+              The service is provided &quot;as-is&quot; and may be modified or
               discontinued at any time without notice.
             </p>
           </section>
@@ -83,7 +83,7 @@ export default function DeeplyTermsPage() {
             <p>
               Deeply and all of its content, features, and functionality
               (including but not limited to all information, software, text,
-              displays, images, video, and audio) are owned by Lupleg Apps or
+              displays, images, video, and audio) are owned by Lupleg Studios or
               its content suppliers and are protected by copyright and other
               intellectual property laws.
             </p>
@@ -94,7 +94,7 @@ export default function DeeplyTermsPage() {
               6. Disclaimer
             </h2>
             <p>
-              Deeply is provided on an &quot;as-is&quot; basis. Lupleg Apps
+              Deeply is provided on an &quot;as-is&quot; basis. Lupleg Studios
               makes no warranties, expressed or implied, regarding the app or
               its operation. We disclaim all warranties including, without
               limitation, warranties of merchantability, fitness for a
@@ -108,8 +108,8 @@ export default function DeeplyTermsPage() {
               7. Limitation of Liability
             </h2>
             <p>
-              In no event shall Lupleg Apps, its founders, or its suppliers be
-              liable for any damages (including loss of data, profits, or
+              In no event shall Lupleg Studios, its founders, or its suppliers
+              be liable for any damages (including loss of data, profits, or
               business interruption) arising from the use of or inability to use
               Deeply, even if we have been notified of the possibility of such
               damage.
@@ -121,9 +121,9 @@ export default function DeeplyTermsPage() {
               8. Modifications to Terms
             </h2>
             <p>
-              Lupleg Apps may revise these Terms of Service at any time without
-              notice. By continuing to use Deeply after such revisions, you
-              agree to be bound by the updated terms.
+              Lupleg Studios may revise these Terms of Service at any time
+              without notice. By continuing to use Deeply after such revisions,
+              you agree to be bound by the updated terms.
             </p>
           </section>
 
@@ -132,7 +132,7 @@ export default function DeeplyTermsPage() {
               9. Termination
             </h2>
             <p>
-              Lupleg Apps may terminate or suspend your account and access to
+              Lupleg Studios may terminate or suspend your account and access to
               Deeply at any time for violations of these Terms of Service or for
               any other reason, with or without notice.
             </p>
@@ -178,7 +178,7 @@ export default function DeeplyTermsPage() {
             </h2>
             <p>
               These Terms of Service constitute the entire agreement between you
-              and Lupleg Apps regarding your use of Deeply and supersede all
+              and Lupleg Studios regarding your use of Deeply and supersede all
               prior agreements and understandings.
             </p>
           </section>

@@ -61,7 +61,6 @@ const apps: App[] = [
   },
 ];
 
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-white dark:bg-black">
@@ -77,7 +76,7 @@ export default function Home() {
           <div className="space-y-4">
             <div className="inline-block">
               <h1 className="text-5xl md:text-6xl font-black bg-linear-to-r from-blue-600 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-                Lupleg Apps
+                Lupleg Studios
               </h1>
             </div>
             <p className="text-lg md:text-xl text-zinc-600 dark:text-zinc-400 max-w-2xl">
@@ -153,7 +152,7 @@ export default function Home() {
       <section className="bg-linear-to-br from-blue-50 to-indigo-100 dark:from-zinc-900 dark:to-zinc-800 py-20">
         <div className="max-w-6xl mx-auto px-6">
           <h2 className="text-4xl md:text-5xl font-bold text-black dark:text-white mb-12 text-center">
-            Why Choose Lupleg Apps?
+            Why Choose Lupleg Studios?
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -306,7 +305,7 @@ export default function Home() {
 
           <div className="border-t border-zinc-200 dark:border-zinc-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-zinc-600 dark:text-zinc-400">
             <p>
-              &copy; {new Date().getFullYear()} Lupleg Apps. All rights
+              &copy; {new Date().getFullYear()} Lupleg Studios. All rights
               reserved.
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">

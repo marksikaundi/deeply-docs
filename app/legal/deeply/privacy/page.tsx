@@ -26,10 +26,11 @@ export default function DeeplyPrivacyPage() {
               1. Introduction
             </h2>
             <p>
-              Lupleg Apps (&quot;we&quot; or &quot;us&quot; or &quot;our&quot;)
-              operates Deeply, a free mobile application (the &quot;App&quot;).
-              This page informs you of our policies regarding the collection,
-              use, and disclosure of personal data when you use our App.
+              Lupleg Studios (&quot;we&quot; or &quot;us&quot; or
+              &quot;our&quot;) operates Deeply, a free mobile application (the
+              &quot;App&quot;). This page informs you of our policies regarding
+              the collection, use, and disclosure of personal data when you use
+              our App.
             </p>
             <p className="mt-2">
               We are committed to transparency and minimal data collection. We

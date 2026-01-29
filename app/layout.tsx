@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lupleg Apps",
-  description: "All our published apps for the Lupleg Apps ",
+  title: "Lupleg Studios",
+  description: "All our published apps for the Lupleg Studios ",
 };
 
 export default function RootLayout({
