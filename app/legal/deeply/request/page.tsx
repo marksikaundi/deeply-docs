@@ -235,7 +235,7 @@ export default function AccountDeletionRequestPage() {
             </div>
 
             <div className="space-y-2">
-              <label htmlFor="password" name="password" className="block text-sm font-bold text-zinc-700 dark:text-zinc-300 ml-1">
+              <label htmlFor="password" className="block text-sm font-bold text-zinc-700 dark:text-zinc-300 ml-1">
                 Password
               </label>
               <input
