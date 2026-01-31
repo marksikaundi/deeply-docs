@@ -305,9 +305,9 @@ export default function AccountDeletionRequestPage() {
             </button>
           </form>
 
-          <p className="text-xs text-zinc-500 dark:text-zinc-500 text-center mt-8">
-            A verification link will be sent to your email. You must confirm within 24 hours to complete the deletion.
-          </p>
+          {/*<p className="text-xs text-zinc-500 dark:text-zinc-500 text-center mt-8">*/}
+          {/*  A verification link will be sent to your email. You must confirm within 24 hours to complete the deletion.*/}
+          {/*</p>*/}
         </div>
       </main>
 
