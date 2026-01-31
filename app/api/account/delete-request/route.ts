@@ -93,7 +93,7 @@ export async function POST(request: NextRequest) {
       
       <p>If you did not request this action, please reply to this email immediately.</p>
       
-      <p>Best regards,<br/>The Lupleg Studios Team</p>
+      <p>Best regards,<br/>Lupleg Studios</p>
     `;
 
     await transporter.sendMail({
