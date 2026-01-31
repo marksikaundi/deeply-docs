@@ -75,7 +75,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto px-6 py-16">
           <div className="space-y-4">
             <div className="inline-block">
-              <h1 className="text-5xl md:text-6xl font-black bg-linear-to-r from-blue-600 via-blue-500 to-purple-600 bg-clip-text text-transparent">
+              <h1 className="text-5xl md:text-6xl font-black bg-blue-700 bg-clip-text text-transparent">
                 Lupleg Studios
               </h1>
             </div>
@@ -225,8 +225,8 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
             <div>
-              <h4 className="font-bold text-black dark:text-white mb-4">
-                Lupleg<span className="text-blue-600">Apps</span>
+              <h4 className="font-bold text-blue-700 dark:text-white mb-4">
+                Lupleg Studios
               </h4>
               <p className="text-sm text-zinc-600 dark:text-zinc-400">
                 Innovative applications crafted by Lupleg Studios.
